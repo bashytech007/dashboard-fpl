@@ -37,7 +37,7 @@ export default function ManagersStats(){
         <Card>
         <CardHeader className="pb-2">
             <CardTitle className="text-base">
-                Managers Active
+                Managers Presently Active
             </CardTitle>
            </CardHeader>
            <CardContent>

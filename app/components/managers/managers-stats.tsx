@@ -13,7 +13,7 @@ export default function ManagersStats(){
     const managersActivePercentage=(managersActive /totalManagers) *100;
     return(
         <div className="grid lg:grid-cols-3 gap-4">
-            <>
+        
         <Card>
            <CardHeader className="pb-2">
             <CardTitle className="text-base">
@@ -99,7 +99,7 @@ export default function ManagersStats(){
                 <ManagerPositionTrends/>
             </CardContent>
         </Card>
-        </>
+        
         </div>
     )
 }

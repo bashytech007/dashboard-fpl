@@ -3,7 +3,8 @@ import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/componen
 import { Avatar, AvatarFallback } from "@radix-ui/react-avatar";
 import { AlertTriangleIcon, BadgeCheckIcon, LaptopIcon, PartyPopper, PartyPopperIcon, UserCheck2Icon, UserCheckIcon, UserIcon, UserRoundXIcon } from "lucide-react";
 import Link from "next/link";
-import cm from "@/public/images/cm.jpg"
+// import cm from "@/public/images/cm.jpg"
+import cm from "@/public/images/2pac.jpeg"
 import Image from "next/image";
 import ManagerPositionTrends from "./manager-position-trends";
 export default function ManagersStats(){
